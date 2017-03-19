@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">A4.1</string>
+    <string name="ascend">Ascending</string>
+    <string name="decend">Descending</string>
+</resources>
